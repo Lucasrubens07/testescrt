@@ -16,33 +16,33 @@ O repositório está organizado por tecnologia. Cada pasta contém os exercício
 
 ## Como rodar os projetos
 
-### HTML, CSS e JavaScript
+# HTML, CSS e JavaScript
 
-# 1. Acesse a pasta desejada:
+### 1. Acesse a pasta desejada:
 cd htmlCSSjs/exercicio1
 
-# 2. Abra o arquivo index.html no navegador
+### 2. Abra o arquivo index.html no navegador
 
-### PHP
+# PHP
 
-# 1. Acesse a pasta desejada:
+### 1. Acesse a pasta desejada:
 cd php/exercicio1
 
-# 2. Inicie o servidor local:
+### 2. Inicie o servidor local:
 php -S localhost:8000
 
-# 3. Acesse no navegador:
+### 3. Acesse no navegador:
 http://localhost:8000
 
-### React 
-# 1. Acesse a pasta desejada:
+# React 
+### 1. Acesse a pasta desejada:
 cd react/exercicio1
 
-# 2. Instale as dependências:
+### 2. Instale as dependências:
 npm install
 
-# 3. Rode o projeto localmente:
+### 3. Rode o projeto localmente:
 npm run dev
 
-# 4. Acesse no navegador:
+### 4. Acesse no navegador:
 http://localhost:5173
