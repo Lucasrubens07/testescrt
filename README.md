@@ -37,6 +37,7 @@ php -S localhost:8000
 http://localhost:8000
 
 ### React 
+# 1. Acesse a pasta desejada:
 cd react/exercicio1
 
 # 2. Instale as dependências:
