@@ -25,8 +25,6 @@ cd htmlCSSjs/exercicio1
 
 ### PHP
 
-Copiar
-Editar
 # 1. Acesse a pasta desejada:
 cd php/exercicio1
 
