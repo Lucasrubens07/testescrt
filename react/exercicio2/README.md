@@ -1,12 +1,20 @@
-# React + Vite
+# Contador com botão de incrementar/decrementar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um simples projeto de contador, desenvolvido com **React**, que permite incrementar e decrementar um valor. Ele também inclui a funcionalidade de **resetar** o contador ou **salvar** o valor no **localStorage** (Bônus).
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Botões de incrementar e decrementar**: Permitem aumentar ou diminuir o valor do contador.
+- **Exibição do número atual**: Mostra o valor atual do contador.
+- **Botão de resetar** (Bônus): Reseta o contador para o valor inicial.
+- **Salvar em localStorage** (Bônus): O valor do contador é salvo no localStorage, permitindo que o valor persista mesmo após o recarregamento da página.
 
-## Expanding the ESLint configuration
+## Tecnologias Usadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**: Biblioteca JavaScript para construir a interface de usuário.
+- **localStorage**: Para salvar o valor do contador no navegador.
+
+## Feedback do Desenvolvimento
+
+Nos exercícios de React enfrentei pequenas dificuldades, pois sempre realizei manutenções em aplicações já feitas, mas não constumava desenvolver do zero. Visto isso, tive que buscar conhecimento em IA's, documentações e vídeos.
+
