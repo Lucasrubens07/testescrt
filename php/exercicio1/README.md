@@ -24,4 +24,4 @@ Praticar a criação de formulários com HTML, validação de campos no front-en
 
 ## Feedback do Desenvolvimento
 
-Esse exercício foi bem interessante de ser desenvolvido, tive que praticar como transformar os dados do $_POST em `.json` e também como sobrescrever com `file_put_contents`.
+Esse exercício foi bem interessante de ser desenvolvido, tive que praticar como transformar os dados do $_POST em `.json`, como receber caracteres especiais e também como sobrescrever com `file_put_contents`.
