@@ -23,7 +23,7 @@ A página é dividida nas seguintes seções:
 
 ## Feedback do Desenvolvimento
 
-Achei interessante desenvolver esse exercício porque consegui aplicar na prática a estruturação de um site pessoal e explorar o uso do Tailwind CSS. A abordagem com classes utilitárias facilitou bastante o processo de estilização, tornando mais rápido o ajuste de espaçamentos, cores e responsividade. Além disso, pensar na organização das seções como um currículo real ajudou a reforçar o foco em usabilidade e clareza visual. Foi uma boa forma de treinar HTML sem depender de frameworks mais complexos.
+Achei interessante desenvolver esse exercício porque consegui aplicar na prática a estruturação de um site pessoal e explorar o uso do Tailwind CSS. A abordagem com classes utilitárias facilitou bastante o processo de estilização, tornando mais rápido o ajuste de espaçamentos, cores e responsividade. Além disso, pensar na organização das seções como um currículo real ajudou a reforçar o foco em usabilidade e clareza visual. Foi uma boa forma de treinar HTML sem depender de frameworks mais complexos. Tive que estudar melhor os conceitos do Tailwind CSS, pois eu só havia tido contato com essa tecnologia uma vez.
 
 
 

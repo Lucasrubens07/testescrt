@@ -16,5 +16,5 @@ Este é um simples projeto de contador, desenvolvido com **React**, que permite 
 
 ## Feedback do Desenvolvimento
 
-Nos exercícios de React enfrentei pequenas dificuldades, pois sempre realizei manutenções em aplicações já feitas, mas não constumava desenvolver do zero. Visto isso, tive que buscar conhecimento em IA's, documentações e vídeos.
+Nos exercícios de React enfrentei dificuldades, pois sempre realizei manutenções em aplicações já feitas, mas não constumava desenvolver do zero. Visto isso, tive que buscar conhecimento para o desenvolvimento.
 
